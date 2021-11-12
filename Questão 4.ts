@@ -9,7 +9,7 @@ let estudantes: string[] = [
 ];
 
 //Letra A//
-console.log(estudantes[5]);
+console.log(estudantes[4]);
 
 //Letra B//
 console.log(estudantes.length);
@@ -19,7 +19,7 @@ estudantes.push('Felipe', 'Antony', 'Rose');
 console.log(estudantes.length);
 
 //Letra D//
-estudantes.splice(3, 3);
+estudantes.splice(2, 3);
 console.log(estudantes.length);
 
 //Letra E//
